@@ -2,25 +2,25 @@
 
 ## Getting started
 
-You need to (globally) install a web application bundler named Parcel first, by using yarn or npm.
-
-Yarn:
+1. If you haven't yet installed Parcel globally, do it now:
 
 ```bash
 yarn global add parcel-bundler
 ```
 
-npm:
+2. Install the other dependencies
 
 ```bash
-npm install -g parcel-bundler
+yarn
 ```
 
-Run the application by running
+3. Run the application by running
 
 ```bash
 yarn start
 ```
+
+Point your browser to http://localhost:1234/
 
 ## What you'll get:
 

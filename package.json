@@ -1,0 +1,17 @@
+{
+  "name": "parcel-speeddating",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "eslint": "eslint src",
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "prettier": "^1.17.0"
+  }
+}
